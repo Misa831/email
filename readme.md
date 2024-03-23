@@ -1,1 +1,3 @@
-mass email project
+# mass email project
+
+### Authors: Misa Angel
